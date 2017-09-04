@@ -1,2 +1,2 @@
-# hmi
+# HMI
 Human–Machine Interface
