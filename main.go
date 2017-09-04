@@ -18,6 +18,6 @@ func main( ) {
 
     }
 
-    defer db.Close()
+    defer db.Close( )
 
 }
